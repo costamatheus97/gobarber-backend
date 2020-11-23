@@ -105,3 +105,8 @@ dist
 
 # MacOS generated files
 .DS_Store
+
+# Temporary files
+temp/
+tmp/*
+!tmp/.gitkeep
